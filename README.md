@@ -16,7 +16,7 @@
 
 5. 在弹出的库管理器窗口中，输入http到搜索框中。
 
-7. 在搜索结果中找到WIFI ，点击Install按钮进行安装。
+7. 在搜索结果中找到httpClient ，点击Install按钮进行安装。
 
 ![image](https://github.com/liyinchigithub/arduino_8266_wifi_http/assets/19643260/5290eaac-0a50-4b63-a3a4-0132f9be4fe8)
 
